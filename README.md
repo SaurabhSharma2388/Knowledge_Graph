@@ -1,5 +1,5 @@
-# Elephant_Hive_Knowledge_Graph
-Elephant Hive Knowledge Graph
+# Knowledge_Graph
+Knowledge Graph
 
 
 The client is seeking a software program in Python that can efficiently and effectively build knowledge graphs to visualize connections and relationships between different types of content. 
